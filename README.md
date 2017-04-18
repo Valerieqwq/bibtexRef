@@ -13,6 +13,7 @@ for the researches. Even those encountered only once are recorded, too.
     + Inhibition
     + Switching
     + Updating and Working memory
+    + Nootropic
 * ADHD
     + Task Design
         - Stop signal
