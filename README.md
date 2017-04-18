@@ -11,8 +11,8 @@ for the researches. Even those encountered only once are recorded, too.
     + Development
     + General
     + Inhibition
-    + Switching
-    + Updating and Working memory
+    + Shifting/Task Switching
+    + Updating/Working memory
     + Nootropic
 * ADHD
     + Task Design
