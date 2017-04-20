@@ -12,18 +12,22 @@ for the researches. Even those encountered only once are recorded, too.
     + General
     + Inhibition
     + Shifting/Task Switching
+        - Shifting Paradigms
+        - Shifting Research
     + Updating/Working memory
+        - Updating Paradigms
+        - Updating Research
     + Nootropic
 * ADHD
     + Task Design
         - Stop signal
         - TD/PD
         - Time Perception
-        - Task Selection
-            - Task validity
     + Data analysis
         - EEG
     + Research
+    + Task Selection
+        - Task validity
 * Methodology
     + Speed-accuracy tradeoff
     + Misc
