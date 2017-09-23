@@ -16,6 +16,9 @@ for the researches. Even those encountered only once are recorded, too.
         - Shifting Research
     + Updating/Working memory
         - Updating Paradigms
+	    - N-back
+	    - Backward-digit
+	    - Running Memory
         - Updating Research
     + Nootropic
 * ADHD
